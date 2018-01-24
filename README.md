@@ -7,7 +7,7 @@ Hi, I'm Suzanne and I am a junior at The Pennsylvania State University. I am maj
 
 [Final Project for Stat 184](https://smpapik.github.io/FinalProject184/FinalMarkdown) 
 
-[Statistics of Gene Expression](https://smpapik.github.io/GeneExpression.html)
+[Statistics of Gene Expression](smpapik.github.io/GeneExpression.html)
 
 ### Resume
 
