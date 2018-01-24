@@ -1,0 +1,84 @@
+---
+title: "Stocks and Dividends"
+author: "Suzanne Papik"
+date: "10/18/17"
+output: 
+  html_document:
+    fig_height: 3
+    fig_width: 5
+---
+<!-- Don't edit in between this line and the one below -->
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+library(lubridate)
+library(tidyr)
+```
+*Source file* 
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+<!-- Don't edit the material above this line -->
+
+
+```{r}
+library(lubridate)
+TGT <-
+  read.csv("TGT.csv") %>% 
+  mutate(company = "TGT")
+
+WMT <-
+  read.csv("WMT.csv") %>% 
+  mutate(company = "WMT")
+
+KR <-
+  read.csv("KR.csv") %>% 
+  mutate(company = "KR")
+
+Prices <-
+  rbind(TGT, WMT, KR) %>% 
+  mutate(Date= ymd(as.character(Date))) %>% 
+  rename(date = Date, close = Close)
+
+ggplot(Prices,aes(x=date, y=close, color=company))+geom_line()
+```
+```{r}
+Actions <- 
+  data.frame(action = c("buy", "sell"), date = ymd(c("2005-10-19", "2015-10-19")))
+```
+```{r}
+SalesDifferences <- 
+  Actions %>% 
+  inner_join(Prices, by="date")
+```
+```{r}
+SalesDiffWide <- 
+  SalesDifferences %>% 
+  select(company, action, close) %>% 
+  spread(key=action, value= close)
+```
+```{r}
+SalesDiffWide2 <- 
+  SalesDiffWide %>% 
+  mutate(profit= sell- buy) %>% 
+  mutate(percent= ((sell-buy)/buy)*100)
+SalesDiffWide2
+```
+```{r}
+ref_date <- ymd("2007-02-13")
+Reference <- 
+  Prices %>% 
+  filter(date==ref_date) %>% 
+  select(date, company, standard=close)
+Prices1 <-
+  Prices %>% 
+  rename(standard=close)
+Standard <-
+  Reference %>% 
+  full_join(Prices1, by= "standard") %>% 
+  mutate(index= Adj.Close/standard) %>% 
+  rename(company=company.y)
+```
+```{r}
+ggplot(Standard,aes(x=date.y, y=index, color=company))+geom_line()+labs(x='Date')
+```
