@@ -24,16 +24,24 @@ includeSourceDocuments()
 Narrow <-
   NCI60 %>% 
   tidyr::gather(cellLine,expression,-Probe)
+```
+```{r}
 CellTypes <-
   NCI60cells %>% 
   select(cellLine,tissue) %>% 
   mutate(cellLine=gsub("\\:",".", as.character(cellLine)))
+```
+```{r}
 Narrow<-
   Narrow %>% 
   inner_join(CellTypes)
+```
+```{r{
 Probe_TOP3A<-
   Narrow %>% 
   filter(Probe=="TOP3A")
+```
+```{r}
 SummaryStats<-
   Probe_TOP3A %>% 
   group_by(tissue) %>% 
@@ -57,13 +65,16 @@ Probe_TOP3A %>%
 ```
 
 ###A.8
-```{r fig.height=5, fig.width=7,warning=FALSE}
+```{r}
 SummaryStats<-Probe_TOP3A %>% group_by(tissue) %>% summarise(mn=mean(expression,na.rm=TRUE),
                                                              se=sd(expression,na.rm = TRUE)/sqrt(n()))
+```                                                             
+```{r}
 SummaryStats<-
   SummaryStats %>% 
   mutate(top=mn+2*se,bottom=mn-2*se)
-
+```
+```{r fig.height=5, fig.width=7,warning=FALSE}
 SummaryStats %>% 
   ggplot(aes(x=tissue,y=exp(mn)))+
   geom_bar(stat="identity",fill="gray",color=NA)+
@@ -72,11 +83,12 @@ SummaryStats %>%
 ```
 
 ###A.9
-```{r fig.height=5, fig.width=7,warning=FALSE}
+```{r}
 SummaryStats<-
   SummaryStats %>% 
   mutate(top=mn+2*se,bottom=mn-2*se)
-
+```
+```{r fig.height=5, fig.width=7,warning=FALSE}
 SummaryStats %>% 
   ggplot(aes(x=tissue,y=exp(mn)))+
   geom_bar(stat = "identity",alpha=.2)+
@@ -94,7 +106,7 @@ theme(axis.text.x = element_text(angle=30,hjust = 1))
 ```
 
 ###A.11
-```{r fig.height=5, fig.width=7,warning=FALSE}
+```{r}
 r2<-function(data){mosaic::rsquared(lm(data$expression~data$tissue))}
 
 ProbeR2<-
@@ -102,12 +114,14 @@ ProbeR2<-
   group_by(Probe) %>% 
   do(r2=r2(.)) %>% 
   mutate(r2=unlist(r2))
-
+```  
+```{r}
 Actual<-
   ProbeR2 %>% arrange(desc(r2)) %>% 
   head(30) %>%
   mutate(Probe=reorder(Probe,desc(r2)))
-
+```
+```{r fig.height=5, fig.width=7,warning=FALSE}
 Actual %>%
   ggplot(aes(x=Probe,y=r2))+
   geom_point()+
@@ -129,7 +143,7 @@ Probe_CD53 %>%
 There seems to be more overlap over the points in this graph and most of the points seem to be outside the error bars.
 
 ###A.12
-```{r fig.height=5, fig.width=7,warning=FALSE}
+```{r }
 NullR2 <- Narrow %>% 
   group_by(Probe) %>% 
   mutate(expression=mosaic::shuffle(expression)) %>% 
