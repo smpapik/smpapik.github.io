@@ -12,6 +12,7 @@ Hi, I'm Suzanne and I am a junior at The Pennsylvania State University. I am maj
 [Stocks and Dividends Activity](https://smpapik.github.io/Stocks_and_Dividends_Activity.html)
 
 ### Resume
+[Suzanne Papik Resume](https://smpapik.github.io/SuzannePapik.pdf)
 
 ### Skills
 
