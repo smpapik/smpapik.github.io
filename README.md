@@ -1,7 +1,7 @@
 ## Suzanne Papik
 
 
-<img src="https://github.com/smpapik/smpapik.github.io/blob/master/SP.PNG?raw=true" width="100">
+<img src="https://github.com/smpapik/smpapik.github.io/blob/master/SP.PNG?raw=true" width="200">
 
 ### About Me
 I am from Pittsburgh, PA, but during the school year I call State College, PA home. I am a junior Statistics major at Penn State University, and I plan to graduate in December of 2018. On campus, I am the president of the Penn State Statistics Club, an active member of Phi Eta Sigma Honor Society, and volunteer with the Penn State Lion's Pantry and the THON organization ATLAS. When I'm not in class or at meetings, I love to cheer on the football and hockey teams, go for a run, or hang out with friends.
