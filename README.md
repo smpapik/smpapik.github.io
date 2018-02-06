@@ -1,7 +1,9 @@
 
-
+<p align="center">
 <img src="https://github.com/smpapik/smpapik.github.io/blob/master/SP.PNG?raw=true" width="275">
+</p>
 
+<p align="center">
 ### About Me
 I am from Pittsburgh, PA, but during the school year I call State College, PA home. I am a junior Statistics major at Penn State University, and I plan to graduate in December of 2018. On campus, I am the president of the Penn State Statistics Club, an active member of Phi Eta Sigma Honor Society, and volunteer with the Penn State Lion's Pantry and the THON organization ATLAS. When I'm not in class or at meetings, I love to cheer on the football and hockey teams, go for a run, or hang out with friends.
 
@@ -26,4 +28,4 @@ If you would like to check out my LinkedIn page, you can find it [here](https://
 Please feel free to get in contact with me by email. My email address is spapik13@gmail.com
 
 You can use the [editor on GitHub](https://github.com/smpapik/smpapik.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+</p>
