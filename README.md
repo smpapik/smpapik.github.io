@@ -1,4 +1,4 @@
-##Suzanne Papik
+## Suzanne Papik
 
 <p align="center">
 <img src="https://github.com/smpapik/smpapik.github.io/blob/master/SP.PNG?raw=true" width="275">
