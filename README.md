@@ -1,3 +1,4 @@
+##Suzanne Papik
 
 <p align="center">
 <img src="https://github.com/smpapik/smpapik.github.io/blob/master/SP.PNG?raw=true" width="275">
@@ -26,5 +27,4 @@ If you would like to check out my LinkedIn page, you can find it [here](https://
 #### Contact Info
 Please feel free to get in contact with me by email. My email address is spapik13@gmail.com
 
-You can use the [editor on GitHub](https://github.com/smpapik/smpapik.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
