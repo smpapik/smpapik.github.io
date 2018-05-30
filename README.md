@@ -19,7 +19,7 @@ Something that not many people know about me is that I am a huge hockey fan. Whe
 
 [Predicting Income and Unemployment in the United States Presentation](https://smpapik.github.io/STAT462ProjectPresentation.pdf)
 
-[Predicting Income and Unemployment in the United States Report]((https://smpapik.github.io/STAT462-FinalReport.pdf)
+[Predicting Income and Unemployment in the United States Report](https://smpapik.github.io/STAT462-FinalReport.pdf)
 
 [Predicting Income and Unemployment in the United States Code](https://smpapik.github.io/fin.R)
 
