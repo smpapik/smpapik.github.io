@@ -17,9 +17,9 @@ I have several projects in the works currently, so as soon as I finish them I wi
 
 Something that not many people know about me is that I am a huge hockey fan. When the time came around to start my final project for my STAT 184 class, I just knew I had to do something with some hockey data. I decided to see if I could predict what stats a player needs to get into the hockey hall of fame. I produced a decision tree for each position for the odds of being inducted, and looked at how well it worked with some current hockey players. I then played around a little looking at the differences of Sidney Crosby and Evgeni Malkin and why they had a large difference in odds of being inducted into the HOF. It was a pretty simple analysis, but it produced some interesting results.
 
-[Predicting Income and Unemployment in the United States Presentation](https://smpapik.github.io/)
+[Predicting Income and Unemployment in the United States Presentation](https://smpapik.github.io/STAT462ProjectPresentation.pdf)
 
-[Predicting Income and Unemployment in the United States Report]()
+[Predicting Income and Unemployment in the United States Report]((https://smpapik.github.io/STAT462-FinalReport.pdf)
 
 [Predicting Income and Unemployment in the United States Code](https://smpapik.github.io/fin.R)
 
