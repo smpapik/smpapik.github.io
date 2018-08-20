@@ -5,9 +5,9 @@
 </p>
 
 ### About Me
-I am from Pittsburgh, PA, but during the school year I call State College, PA home. I am a rising senior Statistics major at Penn State University, and I plan to graduate in December of 2018. On campus, I am the president of the Penn State Statistics Club, an active member of Phi Eta Sigma Honor Society and Mu Sigma Rho, and volunteer with the Penn State Lion's Pantry and the THON organization ATLAS. When I'm not in class or at meetings, I love to cheer on the football and hockey teams, go for a run, or hang out with friends.
+I am from Pittsburgh, PA, but during the school year I call State College, PA home. I am a  senior Biostatistics major at Penn State University, and I am graduating in December of 2018. On campus, I am the president of the Penn State Statistics Club, an active member of Phi Eta Sigma Honor Society and Mu Sigma Rho, and volunteer with the Penn State Lion's Pantry and the THON organization ATLAS. When I'm not in class or at meetings, I love to cheer on the football and hockey teams, go for a run, or hang out with friends.
 
-I am currently interning with Regeneron Pharmaceuticals in the Quality Assurance Validation Department.
+This past summer, I interned with Regeneron Pharmaceuticals in the Quality Assurance Validation Department. My project was to perform different analyses on validation data to showcase capability. 
 
 I have several projects in the works currently, so as soon as I finish them I will get them uploaded!
 
@@ -29,7 +29,7 @@ For Stat 462, regression analysis, myself along with my four other group members
 [Suzanne Papik Resume](https://smpapik.github.io/SuzannePapik.pdf)
 
 ### Computer Languages
-I am proficient in SAS, R, Python, and Microsoft Office, and have basic knowledge of minitab.
+I am proficient in SAS, R, Python, and Microsoft Office, Minitab, and JMP.
 
 ### LinkedIn
 If you would like to check out my LinkedIn page, you can find it [here](https://www.linkedin.com/in/suzanne-papik-6958a9125/)
