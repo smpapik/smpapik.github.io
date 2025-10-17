@@ -1,7 +1,7 @@
 ## Suzanne Papik
 
 <p align="center">
-<img src="https://github.com/smpapik/smpapik.github.io/blob/master/SP.PNG?raw=true" width="275">
+<img src="https://github.com/smpapik/smpapik.github.io/blob/master/IMG_7897.jpeg?raw=true" width="275">
 </p>
 
 ### About Me
