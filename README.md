@@ -12,7 +12,7 @@ When I’m not working with data, you’ll probably find me running long distanc
 
 ### Career
 
-#### Statistician, United States Census Bureau
+#### <ins>Statistician- Team Lead, United States Census Bureau</ins>
 
 I’m currently a statistician at the U.S. Census Bureau, where I manage national housing surveys. My work spans everything from statistical programming and data processing to visualizations and project management. Some of my responsibilities and projects include:
 * Create Tableau dashboards, R Markdown reports, and Excel reports used by executive leadership to monitor key survey metrics, identify data quality issues, and inform operational decisions and resource allocation.
@@ -25,10 +25,11 @@ I’m currently a statistician at the U.S. Census Bureau, where I manage nationa
 * Develop training materials and reference guides for regional and field staff. Present to regional staff and field staff in both a management and training capacity.
 * Manage two national housing surveys, ensuring sponsor needs, regulatory requirements, and data quality standards are consistently met.
 
+Skills: SAS (Programming I & II, Macro, SQL), R, Tableau, Python, Microsoft Office, Adobe, Agile Project Management, Product Owner responsibilities, Statistical analysis & modeling, Survey design and methodology, Data cleaning, processing, and quality control (QC), Data validation and review, Data visualization
 
 
 
-Epic Systems
+#### <ins>Technical Solutions Engineer- Team Lead, Epic Systems</ins>
 
 
 
