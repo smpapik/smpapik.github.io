@@ -2,8 +2,13 @@ title: Suzanne Papik
 logo: PXL_20240810_171931277.jpeg
 theme: jekyll-theme-minimal
 color-scheme: dark
+favicon: true
 
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
 
 platforms:
   - name: GitHub
