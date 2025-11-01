@@ -20,3 +20,6 @@ Something that not many people know about me is that I am a huge hockey fan. Whe
 [Predicting Income and Unemployment in the United States R Code](https://smpapik.github.io/fin.R)
 
 For Stat 462, regression analysis, myself along with my four other group members, Junchan Byeon, Alex Chen, David Chen, and Yinqi Zhang, decided to use the 2015 American Community Survey from the Census Bureau to see if we could develop models that could predict income and unemployment at a county level. The final model for predicting income used elastic net regression, while the final model for predicting unemployment rate used LASSO regression.  
+
+
+[back](./)
