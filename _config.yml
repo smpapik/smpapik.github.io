@@ -1,6 +1,1 @@
-remote_theme: poole/hyde
-
-# Enable the remote theme plugin
-plugins:
-  - jekyll-remote-theme
-
+theme: jekyll-theme-midnight
