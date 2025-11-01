@@ -6,11 +6,11 @@ I love everything about data — collecting it, cleaning it, making sure it’s 
 
 When I’m not working with data, you’ll probably find me running long distances, exploring trails with my dog, or planning my next travel adventure. You'll find more information about me, my career, education, and projects that I have worked on this page.
 
-[Career](./career.html).
+[Career](./career.html)
 
-[Edu](./edu.html).
+[Edu](./edu.html)
 
-[Projects and Reports](./portfolio.html).
+[Projects and Reports](./portfolio.html)
 
 
 
@@ -59,6 +59,13 @@ Skills: SQL, Tableau, M Programming Language, System monitoring and troubleshoot
 
 - Classes
 
+
+#### <ins>Bachelor of Science in Statistics - The Pennsylvania State University, 2018 </ins>
+
+- Classes
+
+### Projects and Reports:
+
 Projects:
 - 485 Project (R Markdown)
 - 502 Analysis (Cupcakes)
@@ -67,13 +74,6 @@ Projects:
 - 580 Presentation (model)
 - 581 Capstone (report)
 
-
-
-#### <ins>Bachelor of Science in Statistics - The Pennsylvania State University, 2018 </ins>
-
-- Classes
-
-Projects:
 
 [Predicting if a NHL Player will be inducted into the Hockey Hall of Fame](https://smpapik.github.io/FinalProject184/FinalMarkdown) 
 
