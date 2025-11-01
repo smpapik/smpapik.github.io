@@ -6,6 +6,14 @@ I love everything about data — collecting it, cleaning it, making sure it’s 
 
 When I’m not working with data, you’ll probably find me running long distances, exploring trails with my dog, or planning my next travel adventure. You'll find more information about me, my career, education, and projects that I have worked on this page.
 
+[Career](./career.html).
+
+[Edu](./edu.html).
+
+[Projects and Reports](./portfolio.html).
+
+
+
 ### Career
 
 #### <ins>Statistician- Team Lead, United States Census Bureau</ins>
