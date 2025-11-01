@@ -4,9 +4,9 @@
 </p>
 
 ### About Me
-Hi there, I'm Suzanne. I'm a Statistician and Data Analyst currently based in the Washington D.C. area where I manage national housing surveys.
+Hi there, I'm Suzanne. I'm a Statistician currently based in the Washington D.C. area where I manage national housing surveys.
 
-I love everything about data — collecting it, cleaning it, making sure it’s accurate, and crafting visualizations that clearly tell a story. There’s something satisfying about turning raw numbers into actionable decisions or into visualizations that make complex data easier to understand.
+I love everything about data — collecting it, cleaning it, making sure it’s accurate, analyzing it, and crafting visualizations that clearly tell a story. There’s something satisfying about turning raw data into actionable decisions or into visualizations that make complex data easier to understand.
 
 When I’m not working with data, you’ll probably find me running long distances, exploring trails with my dog, or planning my next travel adventure. You'll find more information about me, my career, education, and projects that I have worked on below.
 
@@ -31,7 +31,22 @@ Skills: SAS (Programming I & II, Macro, SQL), R, Tableau, Python, Microsoft Offi
 
 #### <ins>Technical Solutions Engineer- Team Lead, Epic Systems</ins>
 
+Prior to my current role, I was a Technical Solutions Engineer at Epic Systems where I worked on the population health team. My team was responsible for supporting software related to quality reporting, quality measures, VBC/ACOs, claims-based reporting, external data, care management, preventive care tools, immunization schedules, and more.  Some responsibilities of this role included:
+* Analyzing system data to identify root causes of performance or configuration problems. Assisted with creating workflows or other software solutions to meet the client's needs.
+* Serving as the primary technical contact for healthcare clients, providing guidance and support for population health software. Partner with clients to understand workflows, troubleshoot issues, and optimize system performance.
+* Regularly meet with with executive stakeholders at major healthcare clients to recommend software solutions. This involved recommending solutions that aligned with the client's organizational goals and presenting and translating technical solutions to non-technical stakeholders.
+* Supported data warehouse processing and SQL/Tableau reporting tools used by regulatory executives to make high-impact financial decisions as well as drill into specific regions and data points.
+* Supporting other software projects, such as leading a system-wide configuration audit initiative that prompted 100+ clients to update outdated code in compliancewith federally released specifications, or developing pandemic response software tools used by 200+ healthcare systems for population identification, tracking, and reporting.
+* Managing a small group of cross-role team members (Developers, Quality Assurance, Implemetation, Technical Solution Engineers, and Communication) to ensure new development was aligned with customers needs and customers and Epic staff were proactively prepared to support new development.
+* Designed and delivered a training course on tight timelines for 150+ employees on a new software product and complex data structure, leading to a decrease in client escalations and an increase in client product confidence.
+* Presenting software updates in large team meetings (200+ people) and led a conference attended by 3,500 people.
 
+While in this role, I was a Team Lead and the Staffing Lead where I:
+* Led a team of six, overseeing support for 30+ clients and holding team members accountable for delivering high-quality work; regularly engaged with clients to ensure performance and software met expectations.
+* Served as staffing lead for a 60+ person team, ensuring 100+ new client projects were staffed on-time, employee's had sustainable workloads, and new staffing allocation needs were being met.
+* Conducted attrition and capacity analysis to identify resourcing gaps, delivering actionable insights that led department leadership to allocate 15 additional new hires to support team demands.
+
+Skills: SQL, Tableau, M Programming Language, System monitoring and troubleshooting, software upgrades, client management and customer communication, executive stakeholder communication, Healthcare IT / EMR knowledge, presentation.
 
 
 ### Education
