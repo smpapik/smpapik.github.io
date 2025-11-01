@@ -8,3 +8,6 @@
 #### <ins>Bachelor of Science in Statistics - The Pennsylvania State University, 2018 </ins>
 
 - Classes
+
+
+[back](./)
