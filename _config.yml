@@ -1,11 +1,12 @@
 title: Suzanne Papik
 logo: PXL_20240810_171931277.jpeg
-theme: jekyll-theme-minimal
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: dark
 favicon: true
 
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
