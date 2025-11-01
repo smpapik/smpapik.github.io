@@ -51,7 +51,25 @@ Skills: SQL, Tableau, M Programming Language, System monitoring and troubleshoot
 
 ### Education
 
-### Portfolio
+#### <ins>Master of Applied Statistics (M.A.S)- The Pennsylvania State University, 2024 </ins>
+
+- Classes
+
+Projects:
+- 485 Project (R Markdown)
+- 502 Analysis (Cupcakes)
+- 502 Analysis (Pancakes)
+- 580 Report (Cheese)
+- 580 Presentation (model)
+- 581 Capstone (report)
+
+
+
+#### <ins>Bachelor of Science in Statistics - The Pennsylvania State University, 2018 </ins>
+
+- Classes
+
+Projects:
 
 [Predicting if a NHL Player will be inducted into the Hockey Hall of Fame](https://smpapik.github.io/FinalProject184/FinalMarkdown) 
 
@@ -68,8 +86,8 @@ For Stat 462, regression analysis, myself along with my four other group members
 ### Resume
 [Suzanne Papik Resume](https://smpapik.github.io/SuzannePapik.pdf)
 
-### Computer Languages
-I am proficient in SAS, R, Python, and Microsoft Office, Minitab, and JMP.
+### Skills and Languages
+I am proficient in SAS, R, SQL, Python, Microsoft Office, Minitab, and Tableau.
 
 ### LinkedIn
 If you would like to check out my LinkedIn page, you can find it [here](https://www.linkedin.com/in/suzanne-papik-6958a9125/)
