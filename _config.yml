@@ -1,2 +1,7 @@
-theme: jekyll-theme-hyde
+# Use the Hyde theme from Poole’s repo
+remote_theme: poole/hyde
+
+# Enable the remote theme plugin
+plugins:
+  - jekyll-remote-theme
 
