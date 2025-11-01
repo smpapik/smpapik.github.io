@@ -2,3 +2,15 @@ title: Suzanne Papik
 logo: PXL_20240810_171931277.jpeg
 theme: jekyll-theme-minimal
 color-scheme: dark
+
+
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/smpapik
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: www.linkedin.com/in/suzanne-papik-6958a9125
+
+
