@@ -36,3 +36,5 @@ While in this role, I was a Team Lead and the Staffing Lead where I:
 * Conducted attrition and capacity analysis to identify resourcing gaps, delivering actionable insights that led department leadership to allocate 15 additional new hires to support team demands.
 
 Skills: SQL, Tableau, M Programming Language, System monitoring and troubleshooting, software upgrades, client management and customer communication, executive stakeholder communication, Healthcare IT / EMR knowledge, presentation.
+
+[back](./)
