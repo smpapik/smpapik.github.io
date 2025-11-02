@@ -2,11 +2,17 @@
 
 ### Recent Projects
 
-[Dashboard](https://smpapik.github.io/RunningDashboard/MarathonTrainingDashboard.html)
+[Marathon Dashboard](https://smpapik.github.io/RunningDashboard/MarathonTrainingDashboard.html)
+I recently ran a marathon, and used Strava to track every training run that I went on. After the marathon, I was looking through each of my runs and wanted an easier way to look at all the training I did. I also was hoping for another way to visualize the marathon run data, personalized to the actual run I completed. This dashboard was born from there.
+
+The first tab on this dashboard includes insights and plots from the actual marathon. The value boxes along the top include key finisher statistics from the race. The animated gif was created using the GPX file of my marathon run, downloaded from Strava. The animated gif includes my pace and time elapsed as I went through the course and it also highlights the elevation changes throughout. The remaining plots offer more insight into the course elevation channges, my pace at at mile and at key splits, and my average heartrate at each mile.
+
+The second tab on this dashboard dives deeper into the actual training period for the marathon. This tab used the Strava API to obtain all of the run activities from my training period (5/12/2025 - 10/25/20205). The value boxes along the top include the total number of runs, total  miles, and total minutes I put into the training. Under the value boxes is a calendar that highlights my running schedule, the number of miles, and my pace across the training period. Longer runs are indicated by a darker shade and days without data were rest days. The light grey squares without any data were periods of illness where I was unable to run. Below the calendar, I included histograms to visualize more information on the runs I completed in the training period and what the distributions of some of the key metrics looked like.
+
+I hope to make one of these dashbaords for each marathon I run so that I can continue to visualize my training and compare runs over time. Additionally, I would like to start using this data to improve my training and rest periods to hopefully improve my marathon time.
 
 
-
-Projects:
+### Graduate Degree Projects & Reports 
 - 485 Project (R Markdown)
 - 502 Analysis (Cupcakes)
 - 502 Analysis (Pancakes)
