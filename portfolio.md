@@ -1,7 +1,9 @@
 ## Projects and Reports:
 
 ### Recent Projects
-[Dashboard](https://smpapik.github.io/RunningDashboard/MarathonTrainingDashboard) 
+
+[Dashboard](https://smpapik.github.io/RunningDashboard/MarathonTrainingDashboard.html)
+
 
 
 Projects:
