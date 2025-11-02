@@ -1,9 +1,9 @@
 ## Projects and Reports:
 
 ### Recent Projects
-[Dashboard](https://smpapik.github.io/MarathonTrainingDashboard) 
+[Dashboard](https://smpapik.github.io/RunningDashboard/MarathonTrainingDashboard) 
 
-smpapik.github.io/MarathonTrainingDashboard.html
+
 Projects:
 - 485 Project (R Markdown)
 - 502 Analysis (Cupcakes)
