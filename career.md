@@ -2,6 +2,7 @@
 ### Career
 
 #### <ins>Statistician- Team Lead, United States Census Bureau</ins>
+##### April 2022 - Present
 
 I am currently a statistician at the U.S. Census Bureau, where I manage national housing surveys. My work spans statistical programming, data processing, visualization, and project management. Some of my key responsibilities include:
 
@@ -20,6 +21,8 @@ Skills: SAS (Programming I & II, Macro, SQL), R, Tableau, Python, Microsoft Offi
 
 
 #### <ins>Technical Solutions Engineer- Team Lead, Epic Systems</ins>
+##### March 2019 - March 2022
+
 
 Prior to my current role, I worked on the Population Health team at Epic Systems, supporting software for quality reporting, VBC/ACO programs, claims-based reporting, care management, preventive care tools, immunization schedules, and other population health initiatives. My responsibilities included:
 
@@ -44,6 +47,8 @@ Leadership & Staffing:
 Skills: SQL, Tableau, M Programming Language, system monitoring and troubleshooting, software upgrades, client management, executive communication, healthcare IT/EMR knowledge, presentation skills
 
 #### <ins>Quality Assurance Validation Intern, Regeneron Pharmaceuticals</ins>
+##### May 2018 - August 2018
+
 
 In this role, I conducted statistical analyses to support cleaning process capability and other operational initiatives. Key responsibilities and accomplishments included:
 
