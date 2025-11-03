@@ -1,6 +1,6 @@
 
 ## About Me
-Hi there, I'm Suzanne. I'm a Statistician currently based in the Washington D.C. area where I manage national housing surveys.
+Hi there, I'm Suzanne. I'm a Statistician based in the Washington D.C. area where I manage national housing surveys.
 
 I love finding the stories hidden in data. Whether I’m cleaning, analyzing, or visualizing it, I enjoy the process of turning raw information into insights that inspire decisions and make complex topics more approachable. I also love programming — building tools, automating workflows, and writing code that makes working with data more efficient and creative.
 
