@@ -52,7 +52,6 @@ Skills: SQL, Tableau, M Programming Language, system monitoring and troubleshoot
 
 In this role, I conducted statistical analyses to support cleaning process capability and other operational initiatives. Key responsibilities and accomplishments included:
 
-Data Analysis & Reporting:
 * Gathered, cleaned, and prepared cleaning process data for statistical analysis.
 * Conducted statistical analyses to evaluate cleaning process performance in comparison to standards.
 * Authored detailed technical reports summarizing analysis outcomes, comparison tests, and actionable recommendations.
