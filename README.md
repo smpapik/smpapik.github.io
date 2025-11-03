@@ -9,10 +9,7 @@ When I’m not working with data, you’ll probably find me running long distanc
 * [Work Experience](./career.html)
 * [Education](./edu.html)
 * [Projects and Reports](./portfolio.html)
+* [Skills and Interests](./SkillsLangInterests.html)
 
 ## Resume
-[Suzanne Papik Resume](https://smpapik.github.io/SuzannePapik.pdf)
-
-## Skills and Languages
-SAS (Programming I & II, Macro, SQL), Microsoft Office, SQL, R and R Markdown, Tableau, Basic Python, Agile Project Management
-
+[Suzanne Papik Resume](<https://smpapik.github.io/Suzanne Papik.pdf>)
