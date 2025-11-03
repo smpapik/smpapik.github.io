@@ -1,37 +1,14 @@
 ## Education
 
-### <ins>Master of Applied Statistics (M.A.S)- The Pennsylvania State University, 2024 </ins>
-I graduated in August 2024 with a 4.0 GPA. I completed classes that covered the following topics:
-* Applied Statistics
-* Regression Methods
-* R and SAS Programming
-* Sampling Theory and Methodology
-* Analysis of Variance and Design of Experiments
-* Design of Experiments
-* Design and Analysis of Clinical Trials
-* Analysis of Discrete Data
-* Applied Multivariate Statistical Analysis
-* Statistical Consulting 
+### <ins>Master of Applied Statistics (M.A.S) - The Pennsylvania State University </ins>
+#### August 2022 - August 2024
 
+Graduated with a 4.0 GPA. Coursework included applied statistics, regression methods, R and SAS programming, sampling theory, ANOVA and design of experiments, clinical trials, discrete data analysis, multivariate analysis, and statistical consulting.
 
-### <ins>Bachelor of Science in Statistics - The Pennsylvania State University, 2018 </ins>
-I graduated cum laude with a GPA of 3.88 in the fall of 2018. I completed classes that covered the following topics:
-* Mathematical Statistics
-* Regression Analysis
-* Applied Nonparametric Statistics
-* Survey Sampling
-* Probability Theory
-* Stochastic Modeling
-* Analysis of Variance
-* Statistical Consulting Capstone
-* Numerical Computations
-* R, SAS, and Python Programming
-* Genetics & Human Genetics 
-* Matrices
-* Calculus and Vector Analysis 
-* Chemistry and Experimental Chemistry
-* Microeconomic Analysis
+### <ins>Bachelor of Science in Statistics - The Pennsylvania State University </ins>
+#### August 2015 - December 2018
 
+Graduated cum laude with a 3.88 GPA. Coursework included probability and mathematical statistics, regression, nonparametric methods, survey sampling, stochastic modeling, ANOVA, programming (R, SAS, Python), and statistical consulting. Additional studies included genetics, calculus, matrices, chemistry, biology/toxicology, and microeconomics.
 
 
 [back](./)
